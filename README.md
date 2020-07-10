@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my first reactjs project
 - 🌱 I’m currently learning reactjs and sass
 - 🤔 I’m looking for help with reactjs and javascript
 - 📫 How to reach me: shafiqanabila@gmail.com
