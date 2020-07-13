@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my first reactjs project
-- 🌱 I’m currently learning reactjs and sass
-- 🤔 I’m looking for help with reactjs and javascript
+- 🌱 I’m currently learning javascript,reactjs and sass
+- 🤔 I’m looking for help with javascript
 - 📫 How to reach me: shafiqanabila@gmail.com
 - ⚡ Fun fact: hoho
 <!--
